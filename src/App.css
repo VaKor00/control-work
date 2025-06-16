@@ -40,4 +40,29 @@
   display: grid;
   grid-template-columns: 130px auto;
   margin: 20px;
+  background-color: aliceblue;
+}
+
+.position button {
+  padding: 10px;
+  width: 40px;
+  height: 40px;
+  font-size: 16px;
+  margin: 20px;
+  background-color: #ffb300;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.position button:hover {
+  background-color: #ff9900;
+  cursor: pointer;
+}
+
+.position span {
+  font-size: 20px;
+}
+
+.add {
+  text-align: end;
 }

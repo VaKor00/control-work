@@ -5,7 +5,7 @@
         "composition": ["лаваш пшеничный", "говядина", "огурцы", "помидоры", "капуста", "соус кетчунез", "твердый сыр"],
         "weight": 300,
         "price": 250,
-        "img": "shaurma-classic.png"
+        "img": "food/shaurma-classic.png"
     },
     {
         "name": "Шаурма классическая большая",
@@ -13,7 +13,7 @@
         "composition": ["лаваш пшеничный", "говядина", "огурцы", "помидоры", "капуста", "соус кетчунез", "твердый сыр"],
         "weight": 500,
         "price": 400,
-        "img": "shaurma-classic.png"
+        "img": "food/shaurma-classic.png"
     },
     {
         "name": "Шаурма с курицей средняя",
@@ -21,7 +21,7 @@
         "composition": ["лаваш пшеничный", "куриное филе", "огурцы", "помидоры", "капуста", "чесночный соус", "твердый сыр"],
         "weight": 300,
         "price": 230,
-        "img": "shaurma-chicken.png"
+        "img": "food/shaurma-chicken.png"
     },
     {
         "name": "Шаурма с курицей большая",
@@ -29,7 +29,7 @@
         "composition": ["лаваш пшеничный", "куриное филе", "огурцы", "помидоры", "капуста", "чесночный соус", "твердый сыр"],
         "weight": 500,
         "price": 370,
-        "img": "shaurma-chicken.png"
+        "img": "food/shaurma-chicken.png"
     },
     {
         "name": "Шаурма с бараниной средняя",
@@ -37,7 +37,7 @@
         "composition": ["лаваш пшеничный", "мясо баранины", "огурцы", "помидоры", "грибы", "халапеньо", "томатный соус"],
         "weight": 300,
         "price": 270,
-        "img": "shaurma-mutton.png"
+        "img": "food/shaurma-mutton.png"
     },
     {
         "name": "Шаурма с бараниной большая",
@@ -45,7 +45,7 @@
         "composition": ["лаваш пшеничный", "мясо баранины", "огурцы", "помидоры", "грибы", "халапеньо", "томатный соус"],
         "weight": 500,
         "price": 450,
-        "img": "shaurma-mutton.png"
+        "img": "food/shaurma-mutton.png"
     },
     {
         "name": "Картофель фри с соусом",
@@ -53,7 +53,7 @@
         "composition": ["картофель фри", "соус на выбор"],
         "weight": 150,
         "price": 200,
-        "img": "potato-frie.png"
+        "img": "food/potato-frie.png"
     },
     {
         "name": "Луковые кольца с соусом",
@@ -61,7 +61,7 @@
         "composition": ["луковые кольца", "соус на выбор"],
         "weight": 150,
         "price": 240,
-        "img": "onion-rings.png"
+        "img": "food/onion-rings.png"
     },
     {
         "name": "Добрый кола",
@@ -69,7 +69,7 @@
         "composition": ["Напиток Добрый кола"],
         "weight": 330,
         "price": 100,
-        "img": "cola.png"
+        "img": "food/cola.png"
     },
     {
         "name": "Добрый кола без сахара",
@@ -77,7 +77,7 @@
         "composition": ["Напиток Добрый кола без сахара"],
         "weight": 330,
         "price": 100,
-        "img": "cola-zero.png"
+        "img": "food/cola-zero.png"
     },
     {
         "name": "Добрый апельсин",
@@ -85,7 +85,7 @@
         "composition": ["Напиток Добрый апельсин"],
         "weight": 330,
         "price": 100,
-        "img": "orange.png"
+        "img": "food/orange.png"
     },
     {
         "name": "Flash Up оригинальный",
@@ -93,7 +93,7 @@
         "composition": ["Напиток Flash Up оригинальный"],
         "weight": 450,
         "price": 120,
-        "img": "flash.png"
+        "img": "food/flash.png"
     },
     {
         "name": "Adrenaline Rush оригинальный",
@@ -101,7 +101,7 @@
         "composition": ["Напиток Adrenaline Rush оригинальный"],
         "weight": 450,
         "price": 150,
-        "img": "adrenaline.png"
+        "img": "food/adrenaline.png"
     },
     {
         "name": "Кофе",
@@ -109,7 +109,7 @@
         "composition": ["Кофе в ассортименте с сахаром/без"],
         "weight": 300,
         "price": 100,
-        "img": "coffe.png"
+        "img": "food/coffe.png"
     },
     {
         "name": "Чай",
@@ -117,6 +117,6 @@
         "composition": ["Чай в ассортименте с сахаром/без"],
         "weight": 300,
         "price": 80,
-        "img": "tea.png"
+        "img": "food/tea.png"
     }
 ]
