@@ -1,11 +1,16 @@
-import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './custom.scss'
+
+import { Nav } from 'react-bootstrap';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-       <span className="Header-content"><img src="../shaurma.png" style={{width: 30, height: 30}}/>Шаурма и точка</span>
-      </header>
+      <Nav class="navbar bg-dark text-light px-2 p-2 fs-3">
+       <div class="container">
+          <span><img src="../shaurma.png" style={{width: 30, height: 30, marginTop: -8}}/>Шаурма и точка</span>
+       </div>
+      </Nav>
     </div>
   );
 }

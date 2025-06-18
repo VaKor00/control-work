@@ -1,12 +1,15 @@
 import Menu from "../menu/index";
 import Basket from "../basket/index";
-import '../App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function body() {
     return(
-        <div className="App-grid">
-            <Menu/>
-            <Basket/>
+        <div class="container">
+            <br></br>
+            <div class="row">
+                <Menu/>
+                <Basket/>
+            </div>
         </div>
     )
 }

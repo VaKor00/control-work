@@ -1,4 +1,3 @@
-import '../App.css';
 import Inner from "./inner"
 
 const inner = [
@@ -7,7 +6,7 @@ const inner = [
 
 function basket() {
     return(
-        <div>
+        <div class="container col-lg-3">
             <h2>Корзина</h2>
             <hr></hr>
             <div>

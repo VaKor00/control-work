@@ -1,0 +1,15 @@
+// change the theme
+$theme-colors: (
+  "dark": #1a1a1a,
+  "danger": #830d07
+);
+
+$container-max-widths: (
+  sm: 640px,
+  md: 768px,
+  lg: 1024px,
+  xl: 1400px
+);
+
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
